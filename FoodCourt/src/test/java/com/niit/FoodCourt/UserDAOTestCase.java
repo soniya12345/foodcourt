@@ -35,7 +35,7 @@ public class UserDAOTestCase {
 
 	}
 
-	@Test
+	/*@Test
 	public void createUserTestCase() {
 		user.setId("master");
 		user.setName("master");

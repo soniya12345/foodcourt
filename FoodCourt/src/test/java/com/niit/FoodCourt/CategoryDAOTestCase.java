@@ -36,7 +36,7 @@ public class CategoryDAOTestCase {
 		category = (Category) context.getBean("category");
 
 	}
-
+/*
 	@Test
 	public void createCategoryTestCase() {
 		category.setId("WOMEN_009");
