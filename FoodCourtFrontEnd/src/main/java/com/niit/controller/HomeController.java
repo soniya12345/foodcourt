@@ -1,4 +1,4 @@
-package com.nit.controller;
+package com.niit.controller;
 
 import java.util.Date;
 import java.util.List;
@@ -21,7 +21,6 @@ import com.niit.FoodCourt.model.Category;
 import com.niit.FoodCourt.model.My_Cart;
 import com.niit.FoodCourt.model.Product;
 import com.niit.FoodCourt.model.Supplier;
-
 
 
 @Controller

@@ -1,4 +1,4 @@
-package com.nit.controller;
+package com.niit.controller;
 
 import javax.servlet.http.HttpSession;
 
@@ -19,6 +19,7 @@ import com.niit.FoodCourt.model.Category;
 import com.niit.FoodCourt.model.Contact;
 import com.niit.FoodCourt.model.Product;
 import com.niit.FoodCourt.model.Supplier;
+
 
 
 @Controller

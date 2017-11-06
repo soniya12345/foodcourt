@@ -1,4 +1,4 @@
-package com.nit.controller;
+package com.niit.controller;
 
 import java.util.List;
 
@@ -26,9 +26,8 @@ import com.niit.FoodCourt.dao.SupplierDAO;
 import com.niit.FoodCourt.model.Category;
 import com.niit.FoodCourt.model.Product;
 import com.niit.FoodCourt.model.Supplier;
-import com.niit.util.FileUtil;
 import com.niit.util.Util;
-
+import com.niit.util.FileUtil;
 
 
 
